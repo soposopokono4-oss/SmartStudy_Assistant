@@ -2,6 +2,6 @@
 // Aman untuk dipublikasikan HANYA gunakan Project URL dan anon/publishable key.
 // JANGAN PERNAH memasukkan service_role key atau OpenAI API key di file ini.
 window.SMARTSTUDY_CONFIG = {
-  SUPABASE_URL: 'https://PROJECT-ID.supabase.co',
-  SUPABASE_ANON_KEY: 'ISI_SUPABASE_ANON_KEY_DI_SINI'
+  SUPABASE_URL: 'https://vihcdajsxzamxvhcjppl.supabase.co',
+  SUPABASE_ANON_KEY: 'sb_publishable_Ec-sz-iF_rUYij_TIomqgA_dde9lZqG'
 };
